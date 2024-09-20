@@ -1,7 +1,5 @@
 # 안녕하세요. 문기영입니다!
 
-![Untitled](Untitled.png)
-
 ### 목표는 **Specialist**.
 
 📮 E-mail
