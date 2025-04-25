@@ -1,38 +1,6 @@
-# 안녕하세요. 문기영입니다!
+Computer Vision Engineer
+MS in Electrical and Computer Engineering
 
-### 목표는 **Specialist**.
-
-📮 E-mail
-ans92175@gmail.com
-
-🎨관심 분야
-
-`Robotics` `Autonomous Driving` 
-
-`Computer Vision` `Embeded` 
-
-`SLAM` `Visual Odometry` `Camera Geometry`
-
-# 👨‍💻 About Me
-
+interestings
 ---
-
-## 🧑‍🎓 Education
-
-`2023.03 ~`  인하대학교 전기컴퓨터공학과 미래형자동차전공 석사 과정 중
-
-`2022.03 ~ 2023.02` 동양미래대학교 로봇자동화공학부 자동화공학과(학사 과정) 수석 졸업
-
-`2017.03 ~ 2022.02` 동양미래대학교 로봇자동화공학부 로봇공학과 차석 졸업
-
-
-## 💁‍♂️ External/Internal Activities
-
-| `2023.09 ~ 2023.12` | 인하대학교 객체지향프로그래밍1 수업 조교 |
-| --- | --- |
-| `2023.03 ~ 2023.08` | 인하대학교 객체지향프로그래밍2 수업 조교 |
-| `2020.03 ~ 2021.12` | 전공동아리 SMART 팀장 및 프로그램(앱) 담당 |
-| `2020.09 ~ 2021.12` | 근로장학생 |
-| `2021.03 ~ 2021.08` | 전공 튜터링 튜터(전자회로 및 실습) |
-| `2020.09 ~ 2020.12` | 전공 튜터링 튜터(컴퓨터 프로그래밍) |
-| `2020.07 ~ 2020.12` | 대우조선해양 외부연구용역 App 담당 |
+Computer vision, Machine Vision, SLAM
