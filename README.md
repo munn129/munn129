@@ -5,4 +5,4 @@ blog: https://munn129.github.io
 
 interestings
 ---
-Computer vision, Machine Vision, SLAM
+Computer Vision, SLAM, Image Retrieval
